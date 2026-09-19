@@ -1,5 +1,18 @@
 # Workflow Adoption: Find the Activation Bottleneck
 
+## Start here
+
+**Problem:** Find where new users stop during onboarding and choose a focused improvement.
+
+**What is built:** An independent Python prototype or analysis, with product documents and synthetic data.
+
+**Code to run:** `python3 reproduce.py`
+
+**What you will see:** Prints the funnel for self-serve and assisted accounts, activation rates, and illustrative experiment sample size.
+
+**Scope:** Runs locally in a terminal. No live customer integration, deployed application, or real AI model call is included.
+
+
 **Status:** Completed synthetic-data case study. **Demonstrates:** Funnel analysis, segmentation, instrumentation, and experiment design.
 
 ## Recommendation
@@ -50,3 +63,11 @@ python3 reproduce.py
 ```
 
 [View the full product management portfolio](https://github.com/bsaikrishnapm-source/bsaikrishnapm-source)
+
+## Inspect the data in Excel
+
+```bash
+python3 export_data.py --output exports
+```
+
+Creates CSV tables from the bundled synthetic data. The terminal output identifies each table and its row count. For a different JSON file, add `--input path/to/data.json`. Existing table CSV files in the output directory are replaced. These exports contain scenario inputs, not production results.
