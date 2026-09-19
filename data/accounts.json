@@ -1,0 +1,322 @@
+[
+  {
+    "account_id": "A001",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A002",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A003",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A004",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A005",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A006",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A007",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A008",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A009",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A010",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A011",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A012",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A013",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A014",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A015",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A016",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A017",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A018",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A019",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A020",
+    "segment": "self_serve",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A021",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A022",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A023",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A024",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A025",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A026",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A027",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A028",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A029",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A030",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A031",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A032",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 1
+  },
+  {
+    "account_id": "A033",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A034",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A035",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 1,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A036",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A037",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A038",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 1,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A039",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  },
+  {
+    "account_id": "A040",
+    "segment": "assisted",
+    "signed_up": 1,
+    "connected": 0,
+    "first_workflow": 0,
+    "activated_7d": 0
+  }
+]
