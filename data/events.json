@@ -1,0 +1,989 @@
+[
+  {
+    "event_id": "A001-0",
+    "account_id": "A001",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A001-1",
+    "account_id": "A001",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A001-2",
+    "account_id": "A001",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A001-3",
+    "account_id": "A001",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A001-4",
+    "account_id": "A001",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A001-5",
+    "account_id": "A001",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A002-0",
+    "account_id": "A002",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A002-1",
+    "account_id": "A002",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A002-2",
+    "account_id": "A002",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A002-3",
+    "account_id": "A002",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A002-4",
+    "account_id": "A002",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A002-5",
+    "account_id": "A002",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A003-0",
+    "account_id": "A003",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A003-1",
+    "account_id": "A003",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A003-2",
+    "account_id": "A003",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A003-3",
+    "account_id": "A003",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A003-4",
+    "account_id": "A003",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A003-5",
+    "account_id": "A003",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A004-0",
+    "account_id": "A004",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A004-1",
+    "account_id": "A004",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A004-2",
+    "account_id": "A004",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A004-3",
+    "account_id": "A004",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A004-4",
+    "account_id": "A004",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A004-5",
+    "account_id": "A004",
+    "segment": "self_serve",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A005-0",
+    "account_id": "A005",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A005-1",
+    "account_id": "A005",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A005-2",
+    "account_id": "A005",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A006-0",
+    "account_id": "A006",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A006-1",
+    "account_id": "A006",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A006-2",
+    "account_id": "A006",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A007-0",
+    "account_id": "A007",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A007-1",
+    "account_id": "A007",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A007-2",
+    "account_id": "A007",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A008-0",
+    "account_id": "A008",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A008-1",
+    "account_id": "A008",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A008-2",
+    "account_id": "A008",
+    "segment": "self_serve",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A009-0",
+    "account_id": "A009",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A009-1",
+    "account_id": "A009",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A010-0",
+    "account_id": "A010",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A010-1",
+    "account_id": "A010",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A011-0",
+    "account_id": "A011",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A011-1",
+    "account_id": "A011",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A012-0",
+    "account_id": "A012",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A012-1",
+    "account_id": "A012",
+    "segment": "self_serve",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A013-0",
+    "account_id": "A013",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A014-0",
+    "account_id": "A014",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A015-0",
+    "account_id": "A015",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A016-0",
+    "account_id": "A016",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A017-0",
+    "account_id": "A017",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A018-0",
+    "account_id": "A018",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A019-0",
+    "account_id": "A019",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A020-0",
+    "account_id": "A020",
+    "segment": "self_serve",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A021-0",
+    "account_id": "A021",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A021-1",
+    "account_id": "A021",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A021-2",
+    "account_id": "A021",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A021-3",
+    "account_id": "A021",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A021-4",
+    "account_id": "A021",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A021-5",
+    "account_id": "A021",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A022-0",
+    "account_id": "A022",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A022-1",
+    "account_id": "A022",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A022-2",
+    "account_id": "A022",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A022-3",
+    "account_id": "A022",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A022-4",
+    "account_id": "A022",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A022-5",
+    "account_id": "A022",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A023-0",
+    "account_id": "A023",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A023-1",
+    "account_id": "A023",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A023-2",
+    "account_id": "A023",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A023-3",
+    "account_id": "A023",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A023-4",
+    "account_id": "A023",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A023-5",
+    "account_id": "A023",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A024-0",
+    "account_id": "A024",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A024-1",
+    "account_id": "A024",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A024-2",
+    "account_id": "A024",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A024-3",
+    "account_id": "A024",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A024-4",
+    "account_id": "A024",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A024-5",
+    "account_id": "A024",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A025-0",
+    "account_id": "A025",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A025-1",
+    "account_id": "A025",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A025-2",
+    "account_id": "A025",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A025-3",
+    "account_id": "A025",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A025-4",
+    "account_id": "A025",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A025-5",
+    "account_id": "A025",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A026-0",
+    "account_id": "A026",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A026-1",
+    "account_id": "A026",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A026-2",
+    "account_id": "A026",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A026-3",
+    "account_id": "A026",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A026-4",
+    "account_id": "A026",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A026-5",
+    "account_id": "A026",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A027-0",
+    "account_id": "A027",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A027-1",
+    "account_id": "A027",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A027-2",
+    "account_id": "A027",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A027-3",
+    "account_id": "A027",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A027-4",
+    "account_id": "A027",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A027-5",
+    "account_id": "A027",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A028-0",
+    "account_id": "A028",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A028-1",
+    "account_id": "A028",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A028-2",
+    "account_id": "A028",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A028-3",
+    "account_id": "A028",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A028-4",
+    "account_id": "A028",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A028-5",
+    "account_id": "A028",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A029-0",
+    "account_id": "A029",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A029-1",
+    "account_id": "A029",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A029-2",
+    "account_id": "A029",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A029-3",
+    "account_id": "A029",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A029-4",
+    "account_id": "A029",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A029-5",
+    "account_id": "A029",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A030-0",
+    "account_id": "A030",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A030-1",
+    "account_id": "A030",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A030-2",
+    "account_id": "A030",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A030-3",
+    "account_id": "A030",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A030-4",
+    "account_id": "A030",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A030-5",
+    "account_id": "A030",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A031-0",
+    "account_id": "A031",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A031-1",
+    "account_id": "A031",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A031-2",
+    "account_id": "A031",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A031-3",
+    "account_id": "A031",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A031-4",
+    "account_id": "A031",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A031-5",
+    "account_id": "A031",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A032-0",
+    "account_id": "A032",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A032-1",
+    "account_id": "A032",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A032-2",
+    "account_id": "A032",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A032-3",
+    "account_id": "A032",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T12:00:00+00:00"
+  },
+  {
+    "event_id": "A032-4",
+    "account_id": "A032",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T16:00:00+00:00"
+  },
+  {
+    "event_id": "A032-5",
+    "account_id": "A032",
+    "segment": "assisted",
+    "event": "run_success",
+    "timestamp": "2026-01-01T20:00:00+00:00"
+  },
+  {
+    "event_id": "A033-0",
+    "account_id": "A033",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A033-1",
+    "account_id": "A033",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A033-2",
+    "account_id": "A033",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A034-0",
+    "account_id": "A034",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A034-1",
+    "account_id": "A034",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A034-2",
+    "account_id": "A034",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A035-0",
+    "account_id": "A035",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A035-1",
+    "account_id": "A035",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A035-2",
+    "account_id": "A035",
+    "segment": "assisted",
+    "event": "workflow_created",
+    "timestamp": "2026-01-01T08:00:00+00:00"
+  },
+  {
+    "event_id": "A036-0",
+    "account_id": "A036",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A036-1",
+    "account_id": "A036",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A037-0",
+    "account_id": "A037",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A037-1",
+    "account_id": "A037",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A038-0",
+    "account_id": "A038",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A038-1",
+    "account_id": "A038",
+    "segment": "assisted",
+    "event": "connected",
+    "timestamp": "2026-01-01T04:00:00+00:00"
+  },
+  {
+    "event_id": "A039-0",
+    "account_id": "A039",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "event_id": "A040-0",
+    "account_id": "A040",
+    "segment": "assisted",
+    "event": "signup",
+    "timestamp": "2026-01-01T00:00:00+00:00"
+  }
+]
