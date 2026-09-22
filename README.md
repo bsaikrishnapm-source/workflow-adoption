@@ -1,5 +1,15 @@
 # Workflow Adoption: Find the Activation Bottleneck
 
+## Product decision at a glance
+
+**User need:** Help new workflow accounts reach useful, repeatable product usage.
+
+**Decision:** Test a focused connector-setup checklist before redesigning the full onboarding journey.
+
+**Evidence:** In 40 synthetic accounts, the largest stage loss is signup to connection: 10 accounts. Self-serve activation is 20% versus 60% for assisted accounts. This comparison is descriptive and does not establish causality.
+
+**Inspect:** [Tracking and experiment plan](EXPERIMENT.md) · [Event-validation demo](DEMO_GUIDE.md) · [Validation](VALIDATION.md). The proposed experiment has not been run.
+
 ## Interactive product demo — implemented
 
 **Activation Analytics:** Event-level seven-day activation, exact duplicate removal, conflicting-ID exclusion, chronology normalization, observation-window exclusions, segmented funnels and explicit validation notes.
